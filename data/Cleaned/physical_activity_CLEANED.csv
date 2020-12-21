@@ -1,0 +1,70 @@
+geo,year,category,category_name,percent,lower_cl,upper_cl,Standard Error
+California,2013,Total population,Total population,69.0782,67.6683,70.4881,0.7192
+California,2013,Race-Ethnicity,White,75.8986,74.3168,77.4804,0.8069
+California,2013,Race-Ethnicity,African-American,63.4425,56.996,69.8891,3.2885
+California,2013,Race-Ethnicity,Asian/Pacific Islander,61.3377,58.6958,63.9795,1.3477
+California,2013,Race-Ethnicity,Hispanic,65.7066,60.1734,71.2398,2.8226
+California,2013,Race-Ethnicity,Other,80.7474,71.2947,90.2001,4.8221
+California,2013,Age,18 to 34 years,71.1897,68.0948,74.2846,1.5788
+California,2013,Age,35 to 44 years,64.5594,60.8739,68.245,1.8801
+California,2013,Age,45 to 54 years,69.1638,65.9802,72.3475,1.624
+California,2013,Age,55 to 64 years,70.3753,67.4936,73.257,1.47
+California,2013,Age,65 years and above,68.736,66.4605,71.0114,1.1608
+California,2013,Education,Less than high school,50.9941,47.1521,54.836000000000006,1.9599
+California,2013,Education,High school graduate,64.5802,61.3143,67.846,1.666
+California,2013,Education,Some college,70.941,68.245,73.637,1.3753
+California,2013,Education,College graduate,78.6002,76.4716,80.7288,1.0859
+California,2013,Income,"Less than $20,000",58.2831,55.3153,61.2509,1.5139
+California,2013,Income,"$20,000 to $34,999",61.9482,58.1788,65.7177,1.9229
+California,2013,Income,"$35,000 to $49,999",66.5722,61.9588,71.1857,2.3534
+California,2013,Income,"$50,000 to $74,999",71.7779,67.8059,75.75,2.0262
+California,2013,Income,"$75,000 to $99,999",78.1614,74.1967,82.1261,2.0225
+California,2013,Income,"$100,000 and above",84.0535,81.3592,86.7479,1.3744
+California,2013,Sex,Male,70.0242,67.8993,72.1491,1.0839
+California,2013,Sex,Female,68.176,66.3093,70.0426,0.9522
+California,2015,Total population,Total population,71.62,69.8336,73.4065,0.9113
+California,2015,Race-Ethnicity,White,76.6827,74.4957,78.8697,1.1157
+California,2015,Race-Ethnicity,African-American,74.3893,67.5797,81.1988,3.4737
+California,2015,Race-Ethnicity,Asian/Pacific Islander,75.6605,69.834,81.487,2.9723
+California,2015,Race-Ethnicity,Hispanic,62.0486,58.3298,65.7675,1.8971
+California,2015,Race-Ethnicity,Other,79.8036,73.4149,86.1924,3.2591
+California,2015,Age,18 to 34 years,72.6642,68.7717,76.5566,1.9857
+California,2015,Age,35 to 44 years,69.6839,65.0538,74.314,2.362
+California,2015,Age,45 to 54 years,69.2704,65.0923,73.4485,2.1314
+California,2015,Age,55 to 64 years,72.8096,69.0869,76.5324,1.8991
+California,2015,Age,65 years and above,73.4498,70.7686,76.1309,1.3677
+California,2015,Education,Less than high school,52.5816,46.9531,58.2101,2.8712
+California,2015,Education,High school graduate,64.5591,60.3228,68.7954,2.161
+California,2015,Education,Some college,71.9967,68.4909,75.5026,1.7884
+California,2015,Education,College graduate,81.4838,78.7249,84.2428,1.4074
+California,2015,Income,"Less than $20,000",61.3187,56.9316,65.7058,2.2379
+California,2015,Income,"$20,000 to $34,999",62.7944,57.3042,68.2847,2.8006
+California,2015,Income,"$35,000 to $49,999",70.878,65.1983,76.5577,2.8973
+California,2015,Income,"$50,000 to $74,999",69.8716,63.7086,76.0345,3.1438
+California,2015,Income,"$75,000 to $99,999",77.4411,72.3034,82.5787,2.6208
+California,2015,Income,"$100,000 and above",85.3429,82.3226,88.3633,1.5407
+California,2015,Sex,Male,70.8392,68.1051,73.5733,1.3947
+California,2015,Sex,Female,72.3509,70.0349,74.667,1.1815
+California,2017,Total population,Total population,70.527,67.8381,73.2158,1.3715
+California,2017,Race-Ethnicity,White,77.5608,74.7964,80.3252,1.4101
+California,2017,Race-Ethnicity,African-American,58.3466,46.9465,69.7466,5.815
+California,2017,Race-Ethnicity,Asian/Pacific Islander,70.393,59.7915,80.9945,5.4077
+California,2017,Race-Ethnicity,Hispanic,61.1582,55.5872,66.7292,2.8417
+California,2017,Race-Ethnicity,Other,78.6266,70.3776,86.8755,4.2077
+California,2017,Age,18 to 34 years,70.4639,64.0674,76.8604,3.2628
+California,2017,Age,35 to 44 years,73.086,66.8228,79.3493,3.1948
+California,2017,Age,45 to 54 years,69.956,63.6617,76.2504,3.2107
+California,2017,Age,55 to 64 years,67.0844,61.8612,72.3076,2.6643
+California,2017,Age,65 years and above,71.7753,68.1554,75.3952,1.8465
+California,2017,Education,Less than high school,49.5693,42.6958,56.4427,3.5061
+California,2017,Education,High school graduate,63.7405,57.8318,69.6491,3.0139
+California,2017,Education,Some college,71.1859,65.2378,77.134,3.0341
+California,2017,Education,College graduate,78.9807,75.3264,82.635,1.864
+California,2017,Income,"Less than $20,000",60.0387,53.2332,66.8442,3.4713
+California,2017,Income,"$20,000 to $34,999",58.8337,51.5411,66.1263,3.7197
+California,2017,Income,"$35,000 to $49,999",59.3686,47.7661,70.9712,5.9181
+California,2017,Income,"$50,000 to $74,999",73.3338,66.5754,80.0922,3.4473
+California,2017,Income,"$75,000 to $99,999",77.9233,70.4109,85.4357,3.8319
+California,2017,Income,"$100,000 and above",85.7647,82.3292,89.2002,1.7523
+California,2017,Sex,Male,71.7643,67.5703,75.9583,2.1393
+California,2017,Sex,Female,69.4562,65.9808,72.9316,1.7728

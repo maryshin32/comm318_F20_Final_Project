@@ -1,0 +1,141 @@
+Geography,Year,Strata,Strata Name,Percent,Standard Error,Lower 95% CL,Upper 95% CL
+California,2012,Total Population,Total Population,12.7,0.281,12.2,13.3
+California,2012,Race-Ethnicity,Hispanic,11.7,0.539,10.7,12.8
+California,2012,Race-Ethnicity,African-American,15.7,1.374,13,18.4
+California,2012,Race-Ethnicity,Asian/Pacific Islander,10,0.986,8,11.9
+California,2012,Race-Ethnicity,White,13.3,0.365,12.6,14
+California,2012,Race-Ethnicity,Other,25.3,3.21,19,31.7
+California,2012,Age,Less than 20 years,10.6,2.105,6.5,14.8
+California,2012,Age,20 to 29 years,14.7,0.985,12.8,16.7
+California,2012,Age,30 to 39 years,13.9,0.786,12.3,15.4
+California,2012,Age,40 to 49 years,14.1,0.746,12.7,15.6
+California,2012,Age,50 to 59 years,15.4,0.693,14.1,16.8
+California,2012,Age,60 years and above,7.6,0.351,6.9,8.3
+California,2012,Education,Less than high school,15.8,0.878,14.1,17.6
+California,2012,Education,High school graduate,18.9,0.763,17.4,20.4
+California,2012,Education,Some college,14.3,0.58,13.2,15.5
+California,2012,Education,College graduate,7.1,0.337,6.4,7.7
+California,2012,Health Insurance,Insured,11.6,0.289,11,12.1
+California,2012,Health Insurance,Uninsured,18.4,0.933,16.6,20.2
+California,2012,Sex,Male,15.5,0.472,14.6,16.4
+California,2012,Sex,Female,10,0.333,9.4,10.7
+California,2013,Total Population,Total Population,11.7,0.319,11.1,12.4
+California,2013,Race-Ethnicity,Hispanic,10.1,0.568,9,11.2
+California,2013,Race-Ethnicity,African-American,16.1,1.664,12.8,19.3
+California,2013,Race-Ethnicity,Asian/Pacific Islander,9.8,1.147,7.5,12
+California,2013,Race-Ethnicity,White,12.7,0.425,11.8,13.5
+California,2013,Race-Ethnicity,Other,21.5,4.025,13.5,29.4
+California,2013,Age,Less than 20 years,10.5,2.166,6.2,14.8
+California,2013,Age,20 to 29 years,16.5,1.122,14.3,18.7
+California,2013,Age,30 to 39 years,11.8,0.86,10.1,13.5
+California,2013,Age,40 to 49 years,11.2,0.803,9.7,12.8
+California,2013,Age,50 to 59 years,13.8,0.772,12.3,15.3
+California,2013,Age,60 years and above,8,0.432,7.2,8.9
+California,2013,Education,Less than high school,14.5,0.96,12.6,16.4
+California,2013,Education,High school graduate,15.8,0.807,14.2,17.4
+California,2013,Education,Some college,14.6,0.679,13.3,15.9
+California,2013,Education,College graduate,6.4,0.385,5.6,7.1
+California,2013,Health Insurance,Insured,10.5,0.325,9.8,11.1
+California,2013,Health Insurance,Uninsured,18.8,1.068,16.7,20.9
+California,2013,Sex,Male,15.1,0.542,14.1,16.2
+California,2013,Sex,Female,8.5,0.364,7.8,9.2
+California,2014,Total Population,Total Population,11.6,0.52,10.6,12.6
+California,2014,Race-Ethnicity,Hispanic,10.3,1.01,8.3,12.3
+California,2014,Race-Ethnicity,African-American,20.1,2.809,14.6,25.6
+California,2014,Race-Ethnicity,Asian/Pacific Islander,8.2,1.326,5.6,10.8
+California,2014,Race-Ethnicity,White,11.9,0.694,10.5,13.2
+California,2014,Race-Ethnicity,Other,16.3,2.429,11.5,21
+California,2014,Age,Less than 20 years,9.8,2.894,4.1,15.4
+California,2014,Age,20 to 29 years,14,1.339,11.4,16.6
+California,2014,Age,30 to 39 years,13,1.528,10,16
+California,2014,Age,40 to 49 years,11.5,1.344,8.8,14.1
+California,2014,Age,50 to 59 years,13.6,1.112,11.4,15.8
+California,2014,Age,60 years and above,8.3,0.726,6.9,9.7
+California,2014,Education,Less than high school,15.6,1.785,12.1,19.1
+California,2014,Education,High school graduate,17.4,1.513,14.5,20.4
+California,2014,Education,Some college,12.6,0.965,10.7,14.5
+California,2014,Education,College graduate,7.2,0.636,5.9,8.4
+California,2014,Health Insurance,Insured,10.8,0.547,9.7,11.8
+California,2014,Health Insurance,Uninsured,17.2,1.642,14,20.4
+California,2014,Sex,Male,14.9,0.86,13.2,16.6
+California,2014,Sex,Female,8.4,0.577,7.2,9.5
+California,2015,Total Population,Total Population,10.5,0.466,9.5,11.4
+California,2015,Race-Ethnicity,Hispanic,9.8,0.859,8.1,11.4
+California,2015,Race-Ethnicity,African-American,13.4,2.152,9.2,17.6
+California,2015,Race-Ethnicity,Asian/Pacific Islander,6,1.035,4,8
+California,2015,Race-Ethnicity,White,10.8,0.662,9.5,12.1
+California,2015,Race-Ethnicity,Other,19.9,2.945,14.2,25.7
+California,2015,Age,Less than 20 years,3.1,0.802,1.5,4.7
+California,2015,Age,20 to 29 years,12.2,1.312,9.6,14.8
+California,2015,Age,30 to 39 years,14.6,1.354,12,17.3
+California,2015,Age,40 to 49 years,10.7,1.213,8.3,13
+California,2015,Age,50 to 59 years,11.6,1.016,9.6,13.6
+California,2015,Age,60 years and above,6.9,0.611,5.7,8.1
+California,2015,Education,Less than high school,13.4,1.443,10.6,16.2
+California,2015,Education,High school graduate,16.1,1.269,13.6,18.6
+California,2015,Education,Some college,12,0.96,10.2,13.9
+California,2015,Education,College graduate,5.9,0.569,4.8,7
+California,2015,Health Insurance,Insured,9.9,0.484,9,10.9
+California,2015,Health Insurance,Uninsured,15.2,1.694,11.8,18.5
+California,2015,Sex,Male,12.9,0.731,11.5,14.3
+California,2015,Sex,Female,8.1,0.579,6.9,9.2
+California,2016,Total Population,Total Population,11.4,0.596,10.3,12.6
+California,2016,Race-Ethnicity,Hispanic,*,*,*,*
+California,2016,Race-Ethnicity,African-American,*,*,*,*
+California,2016,Race-Ethnicity,Asian/Pacific Islander,*,*,*,*
+California,2016,Race-Ethnicity,White,*,*,*,*
+California,2016,Race-Ethnicity,Other,*,*,*,*
+California,2016,Age,Less than 20 years,9.5,3.685,2.3,16.7
+California,2016,Age,20 to 29 years,13.3,1.781,9.8,16.8
+California,2016,Age,30 to 39 years,13.4,1.457,10.5,16.2
+California,2016,Age,40 to 49 years,12.9,1.798,9.4,16.4
+California,2016,Age,50 to 59 years,13.4,1.269,10.9,15.9
+California,2016,Age,60 years and above,7.6,0.645,6.3,8.8
+California,2016,Education,Less than high school,14,1.539,11,17
+California,2016,Education,High school graduate,16.2,1.614,13,19.3
+California,2016,Education,Some college,14.7,1.436,11.9,17.5
+California,2016,Education,College graduate,6.4,0.597,5.2,7.5
+California,2016,Health Insurance,Insured,11.2,0.634,10,12.5
+California,2016,Health Insurance,Uninsured,13.6,1.679,10.3,16.9
+California,2016,Sex,Male,14.8,0.914,13,16.6
+California,2016,Sex,Female,8.1,0.762,6.6,9.6
+California,2017,Total Population,Total Population,10.1,0.679,8.8,11.5
+California,2017,Race-Ethnicity,Hispanic,*,*,*,*
+California,2017,Race-Ethnicity,African-American,*,*,*,*
+California,2017,Race-Ethnicity,Asian/Pacific Islander,*,*,*,*
+California,2017,Race-Ethnicity,White,*,*,*,*
+California,2017,Race-Ethnicity,Other,*,*,*,*
+California,2017,Age,Less than 20 years,*,*,*,*
+California,2017,Age,20 to 29 years,12.6,2.374,8,17.3
+California,2017,Age,30 to 39 years,14.4,1.925,10.6,18.1
+California,2017,Age,40 to 49 years,10.6,1.688,7.3,13.9
+California,2017,Age,50 to 59 years,8.4,1.058,6.4,10.5
+California,2017,Age,60 years and above,7.3,0.805,5.8,8.9
+California,2017,Education,Less than high school,14.7,1.911,11,18.5
+California,2017,Education,High school graduate,13.2,1.787,9.7,16.7
+California,2017,Education,Some college,12.8,1.601,9.7,16
+California,2017,Education,College graduate,6,0.775,4.5,7.5
+California,2017,Health Insurance,Insured,9.8,0.731,8.3,11.2
+California,2017,Health Insurance,Uninsured,13.8,1.704,10.5,17.2
+California,2017,Sex,Male,13.3,1.203,11,15.7
+California,2017,Sex,Female,7,0.602,5.8,8.1
+California,2018,Total Population,Total Population,9.7,0.64,8.5,11
+California,2018,Race-Ethnicity,Hispanic,*,*,*,*
+California,2018,Race-Ethnicity,African-American,*,*,*,*
+California,2018,Race-Ethnicity,Asian/Pacific Islander,*,*,*,*
+California,2018,Race-Ethnicity,White,*,*,*,*
+California,2018,Race-Ethnicity,Other,*,*,*,*
+California,2018,Age,Less than 20 years,*,*,*,*
+California,2018,Age,20 to 29 years,12.7,2.316,8.1,17.2
+California,2018,Age,30 to 39 years,11.8,1.549,8.8,14.8
+California,2018,Age,40 to 49 years,10.3,1.734,6.9,13.7
+California,2018,Age,50 to 59 years,12.9,1.608,9.8,16.1
+California,2018,Age,60 years and above,5.8,0.602,4.6,7
+California,2018,Education,Less than high school,13.1,2.06,9,17.1
+California,2018,Education,High school graduate,13.7,1.707,10.4,17.1
+California,2018,Education,Some college,10.5,1.073,8.4,12.6
+California,2018,Education,College graduate,6.5,0.955,4.6,8.4
+California,2018,Health Insurance,Insured,9.2,0.663,7.9,10.5
+California,2018,Health Insurance,Uninsured,13.3,1.99,9.4,17.2
+California,2018,Sex,Male,12.1,0.91,10.3,13.9
+California,2018,Sex,Female,7.5,0.907,5.7,9.3

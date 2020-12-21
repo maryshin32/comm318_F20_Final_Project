@@ -1,0 +1,52 @@
+year,category,category_name,rate,lower_cl,upper_cl
+2015,Total population,Total population,63.5,61.4,65.7
+2015,Age,18 to 24 years,70.2,63.1,77.3
+2015,Age,25 to 34 years,62.8,57.0,68.6
+2015,Age,35 to 44 years,64.2,58.9,69.5
+2015,Age,45 to 54 years,66.6,61.7,71.5
+2015,Age,55 to 64 years,66.2,61.9,70.6
+2015,Age,65 years and above,51.7,48.2,55.2
+2015,Education,Less than high school,63.7,57.3,70.0
+2015,Education,High school graduate,65.4,60.3,70.5
+2015,Education,Some college,70.3,66.3,74.3
+2015,Education,College graduate,58.3,55.0,61.2
+2015,Health Insurance,Private,63.4,60.5,66.4
+2015,Health Insurance,Medi-Cal,70.2,65.0,75.4
+2015,Health Insurance,Other Public,57.6,53.3,61.9
+2015,Health Insurance,Uninsured,66.7,58.0,75.4
+2015,Sex,Male,65.1,62.1,68.2
+2015,Sex,Female,62.0,59.0,65.1
+2013,Total population,Total population,63.7,61.5,66.0
+2013,Age,18 to 24 years,66.4,58.2,74.6
+2013,Age,25 to 34 years,67.6,61.7,73.4
+2013,Age,35 to 44 years,69.3,63.8,74.7
+2013,Age,45 to 54 years,67.7,62.9,72.5
+2013,Age,55 to 64 years,63.4,58.7,68.0
+2013,Age,65 years and above,47.8,43.8,51.9
+2013,Education,Less than high school,69.1,63.4,74.7
+2013,Education,High school graduate,68.7,63.9,73.6
+2013,Education,Some college,68.4,64.2,72.7
+2013,Education,College graduate,56.1,52.5,59.7
+2013,Health Insurance,Private,61.2,58.3,64.1
+2013,Health Insurance,Medi-Cal,72.1,66.7,77.5
+2013,Health Insurance,Other Public,,,
+2013,Health Insurance,Uninsured,66.0,59.7,72.2
+2013,Sex,Male,62.8,59.4,66.2
+2013,Sex,Female,64.6,61.7,67.5
+2011,Total population,Total population,61.0,59.6,62.5
+2011,Age,18 to 24 years,67.2,61.8,72.7
+2011,Age,25 to 34 years,65.9,61.9,69.9
+2011,Age,35 to 44 years,61.8,58.6,64.9
+2011,Age,45 to 54 years,61.3,58.5,64.2
+2011,Age,55 to 64 years,59.8,57.1,62.4
+2011,Age,65 years and above,49.3,47.0,51.6
+2011,Education,Less than high school,63.7,60.0,67.4
+2011,Education,High school graduate,65.8,62.4,69.1
+2011,Education,Some college,67.6,65.0,70.3
+2011,Education,College graduate,53.3,51.1,55.6
+2011,Health Insurance,Private,57.7,54.7,60.8
+2011,Health Insurance,Medi-Cal,65.6,56.0,75.2
+2011,Health Insurance,Other Public,58.6,55.3,62.0
+2011,Health Insurance,Uninsured,69.5,65.2,73.7
+2011,Sex,Male,62.3,60.2,64.5
+2011,Sex,Female,59.8,57.8,61.7
