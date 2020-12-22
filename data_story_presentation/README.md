@@ -1,8 +1,8 @@
 # My data story for COMM318 _Stories from data_ Final Project
 
-Hello! You have finally arrived at the presentation of my data story. I have published my project as a data-driven article on Medium.com, and you can access the story here: 
+Hello! You have arrived at the presentation of my data story. I have published my project as a data-driven article on Medium.com, and you can access the story here: 
 
-
+https://shinmary.medium.com/lets-address-these-factors-in-our-mental-health-discourse-b937290d70a9
 
 In case there are any issues with accessing this Medium link, I have also uploaded my story as a PDF File in this folder.
 
