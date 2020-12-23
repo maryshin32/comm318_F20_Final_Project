@@ -13,7 +13,7 @@ https://shinmary.medium.com/lets-address-these-factors-in-our-mental-health-disc
 
 In case there are any issues with accessing this Medium link, I have also uploaded my story as a PDF File in this folder.
 
-Once again, thank you very much for your time and attention, and I hope you enjoyed my Final Project!!! 
+Thank you very much for your time and attention, and I hope you enjoyed my Final Project!!! 
 
 Cheers,
-Mary Shin
+-Mary Shin
